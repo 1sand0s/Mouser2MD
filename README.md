@@ -24,7 +24,7 @@ my own. Simply follow the instructions below to build it, and then execute the j
 
     Download [Maven v3.8.4](https://maven.apache.org/download.cgi) and install it.
 
-3. <h4>Clone the cyphssert repository:</h4>
+3. <h4>Clone the Mouser2MD repository:</h4>
 
     If you installed Git, execute the following command: `https://github.com/1sand0s/Mouser2MD.git`<br>
     Otherwise, download the repository as a [zip ball](https://github.com/1sand0s/Mouser2MD/archive/refs/heads/main.zip) and extract it.
