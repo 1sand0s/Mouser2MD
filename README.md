@@ -35,4 +35,4 @@ my own. Simply follow the instructions below to build it, and then execute the j
 
 7. <h4>Running:</h4>
 
-    To convert a Mouser.com order into BOM for markdown, `cd` to the `target` directory inside project root directory, and execute 'java -jar mouser2md-0.0.1-SNAPSHOT-jar-with-dependencies.jar <PASTE URL TO MOUSER.COM ORDER HERE>'.
+    To convert a Mouser.com order into BOM for markdown, `cd` to the `target` directory inside project root directory, and execute `java -jar mouser2md-0.0.1-SNAPSHOT-jar-with-dependencies.jar <PASTE URL TO MOUSER.COM ORDER HERE>`.
